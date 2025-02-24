@@ -3,7 +3,7 @@ Full Stack Developer
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vishmitha Nadeeshan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vishmitha-nadeeshan-249722316) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VishmithaNadeeshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VishmithaNadeeshan&theme=dark&hide_border=false)<br/>
